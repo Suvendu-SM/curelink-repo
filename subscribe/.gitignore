@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+## Test ##
+\test
+
+## Other ##
+.mvn
+mvnw.cmd
+mvnw
