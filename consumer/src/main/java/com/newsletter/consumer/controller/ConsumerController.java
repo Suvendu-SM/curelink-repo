@@ -27,7 +27,6 @@ public class ConsumerController {
 
     @PostMapping(value = "/consume/create")
     public ResponseEntity<Content> consumerContentCreateHandler (@RequestBody Content content) {
-        System.out.println("con 8390");
         return consumerService.createContent(content);
     }
 
