@@ -11,6 +11,6 @@ eureka:
     serviceUrl:
       # Server url is set to below
       defaultZone: http://localhost:8761/eureka/
-\
+
 
 
